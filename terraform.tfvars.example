@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars and fill in for a real plan/apply.
+# Not needed for `terraform validate`.
+
+subscription_id = "00000000-0000-0000-0000-000000000000"
+prefix          = "aslz"
+location        = "westeurope"
